@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\bin\Debug\net7.0\ClassLibraryMA.deps.json
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\bin\Debug\net7.0\ClassLibraryMA.dll
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\bin\Debug\net7.0\ClassLibraryMA.pdb
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.AssemblyInfo.cs
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.dll
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\refint\ClassLibraryMA.dll
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ClassLibraryMA.pdb
+C:\Users\student\source\repos\ClassLibraryMA\ClassLibraryMA\obj\Debug\net7.0\ref\ClassLibraryMA.dll

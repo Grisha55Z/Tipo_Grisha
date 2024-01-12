@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\net6.0\TheQuadraticEquation.deps.json
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\net6.0\TheQuadraticEquation.dll
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\net6.0\TheQuadraticEquation.pdb
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.AssemblyInfo.cs
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.dll
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\refint\TheQuadraticEquation.dll
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\TheQuadraticEquation.pdb
+C:\Users\student\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\net6.0\ref\TheQuadraticEquation.dll

@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.AssemblyInfo.cs
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\fvjvec\fvjvec\bin\Debug\net7.0\fvjvec.exe
+C:\Users\student\source\repos\fvjvec\fvjvec\bin\Debug\net7.0\fvjvec.deps.json
+C:\Users\student\source\repos\fvjvec\fvjvec\bin\Debug\net7.0\fvjvec.runtimeconfig.json
+C:\Users\student\source\repos\fvjvec\fvjvec\bin\Debug\net7.0\fvjvec.dll
+C:\Users\student\source\repos\fvjvec\fvjvec\bin\Debug\net7.0\fvjvec.pdb
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.dll
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\refint\fvjvec.dll
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.pdb
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\fvjvec.genruntimeconfig.cache
+C:\Users\student\source\repos\fvjvec\fvjvec\obj\Debug\net7.0\ref\fvjvec.dll

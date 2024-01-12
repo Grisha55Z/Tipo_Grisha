@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\bin\Debug\net7.0\slishkom_sloshno.exe
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\bin\Debug\net7.0\slishkom_sloshno.deps.json
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\bin\Debug\net7.0\slishkom_sloshno.runtimeconfig.json
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\bin\Debug\net7.0\slishkom_sloshno.dll
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\bin\Debug\net7.0\slishkom_sloshno.pdb
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.AssemblyInfo.cs
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.dll
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\refint\slishkom_sloshno.dll
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.pdb
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\slishkom_sloshno.genruntimeconfig.cache
+C:\Users\student\source\repos\slishkom_sloshno\slishkom_sloshno\obj\Debug\net7.0\ref\slishkom_sloshno.dll

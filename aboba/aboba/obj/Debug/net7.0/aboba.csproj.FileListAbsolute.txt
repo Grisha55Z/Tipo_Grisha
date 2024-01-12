@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\aboba\aboba\bin\Debug\net7.0\aboba.exe
+C:\Users\student\source\repos\aboba\aboba\bin\Debug\net7.0\aboba.deps.json
+C:\Users\student\source\repos\aboba\aboba\bin\Debug\net7.0\aboba.runtimeconfig.json
+C:\Users\student\source\repos\aboba\aboba\bin\Debug\net7.0\aboba.dll
+C:\Users\student\source\repos\aboba\aboba\bin\Debug\net7.0\aboba.pdb
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.AssemblyInfo.cs
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.dll
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\refint\aboba.dll
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.pdb
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\aboba.genruntimeconfig.cache
+C:\Users\student\source\repos\aboba\aboba\obj\Debug\net7.0\ref\aboba.dll

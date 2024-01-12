@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.AssemblyInfo.cs
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Gutis\Gutis\bin\Debug\net7.0\Gutis.exe
+C:\Users\student\source\repos\Gutis\Gutis\bin\Debug\net7.0\Gutis.deps.json
+C:\Users\student\source\repos\Gutis\Gutis\bin\Debug\net7.0\Gutis.runtimeconfig.json
+C:\Users\student\source\repos\Gutis\Gutis\bin\Debug\net7.0\Gutis.dll
+C:\Users\student\source\repos\Gutis\Gutis\bin\Debug\net7.0\Gutis.pdb
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.dll
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\refint\Gutis.dll
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.pdb
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\Gutis.genruntimeconfig.cache
+C:\Users\student\source\repos\Gutis\Gutis\obj\Debug\net7.0\ref\Gutis.dll
